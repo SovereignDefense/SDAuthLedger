@@ -1,0 +1,2 @@
+# Para criptografia Ed25519 e gestão de chaves
+PyNaCl>=1.4.0
